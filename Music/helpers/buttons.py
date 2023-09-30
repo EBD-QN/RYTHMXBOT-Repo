@@ -204,15 +204,15 @@ class MakeButtons:
     def source_markup(self):
         buttons = [
             [
-                self.ikb(text="Chat Me ❤️", url="https://t.me/DILWALE_WORLD_GROUPS"),
-                self.ikb(text="Repo 📦", url="https://github.com/EBD_QN"),
+                self.ikb(text="Chat Me ❤️", url="https://t.me/HOUSE_FULL_MASTI24"),
+                self.ikb(text="Repo 📦", url="https://github.com/HFM_NETWORK"),
             ],
             [
-                self.ikb(text="Under Queen Network { 🇮🇳 }", url="https://t.me/QUEEN_Networks"),
+                self.ikb(text="Under HFM Network { 🇮🇳 }", url="https://t.me/HFM_NETWORK"),
             ],
             [
-                self.ikb(text="Support 🎙️", url="https://t.me/EBD_QN_CHAT"),
-                self.ikb(text="Updates 📣", url="https://t.me/EBD_QN"),
+                self.ikb(text="Support 🎙️", url="https://t.me/HOUSE_FULL_MASTI24"),
+                self.ikb(text="Updates 📣", url="https://t.me/HFM_UPDATE"),
             ],
             [
                 self.ikb(text="🔙", callback_data="help|start"),
